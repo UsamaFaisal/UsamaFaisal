@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /> Hi, I'm Usama Faisal
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D4FF,50:7C3AED,100:FF2D75&text=React%20Native%20Developer&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Mobile%20Apps%20%7C%20Frontend%20Experiences%20%7C%20Firebase%20%7C%20Animated%20UI&descAlignY=58&animation=fadeIn" alt="React Native Developer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D4FF,50:7C3AED,100:FF2D75&text=Backend%20%2B%20Mobile%20Developer&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Ruby%20on%20Rails%20%7C%20React%20Native%20%7C%20APIs%20%7C%20Web3%20Explorer&descAlignY=58&animation=fadeIn" alt="Backend and Mobile Developer banner" />
 </div>
 
 <div align="center">
@@ -14,63 +14,51 @@
   <a href="https://github.com/UsamaFaisal">
     <img src="https://img.shields.io/badge/GitHub-UsamaFaisal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <a href="https://expo.dev/@usama530/FoodGrid?serviceType=classic&distribution=expo-go">
-    <img src="https://img.shields.io/badge/Expo-FoodGrid-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo FoodGrid badge" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=UsamaFaisal&style=for-the-badge&color=7C3AED" alt="Profile views" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=React+Native+Developer;Mobile+App+Enthusiast;Firebase+%2B+Expo+Builder;Frontend+UI+Explorer;Turning+ideas+into+user-friendly+apps" alt="Animated typing headline" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/UsamaFaisal/UsamaFaisal/actions/workflows/update-readme.yml">
-    <img src="https://github.com/UsamaFaisal/UsamaFaisal/actions/workflows/update-readme.yml/badge.svg" alt="Update README workflow status" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Ruby+on+Rails+Backend+Developer;React+%26+React+Native+Engineer;RESTful+APIs+%2B+Database+Architecture;Blockchain+%26+Web3+Explorer;Always+learning%2C+always+shipping" alt="Animated typing headline" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```javascript
-const usamaFaisal = {
-  role: "React Native Developer",
-  focus: "Building smooth, practical, and user-friendly mobile experiences",
-  interests: ["Mobile apps", "Animated UI", "Frontend products", "Firebase"],
-  currentlyBuilding: ["FoodGrid", "Flip App", "Very Much"],
-  mindset: "Turn ideas into functional products with clean interfaces",
-};
-```
+I'm a versatile **Software Engineer** specializing in **Ruby on Rails back-end development**, RESTful APIs, scalable database structures, and third-party integrations. I also bring hands-on experience with **React, React Native, Python, Firebase, and mobile UI development**, with an active interest in **blockchain** and Web3 products.
 
-- 🔭 Building mobile-first and frontend product experiences
-- 📱 Focused on **React Native**, **Expo**, and smooth UI flows
-- 🧠 Interested in Firebase-backed apps, animations, and practical product features
-- 🌱 Exploring stronger full-stack patterns and production-ready app workflows
-- 👯 Open to collaboration on mobile, frontend, and product-focused ideas
-- 💬 Ask me about React Native, Expo, Firebase, UI screens, or app prototyping
+- 🔭 Currently working as a Ruby on Rails Software Engineer
+- 🧠 Strong in backend architecture, APIs, databases, and product-focused development
+- 📱 Experienced in React Native mobile apps and animated UI screens
+- 🌱 Continuously learning blockchain, Web3, and decentralized app concepts
+- 👯 Open to collaboration on backend, mobile, and full-stack product ideas
+- 💬 Ask me about Ruby on Rails, REST APIs, React Native, blockchain, or tech in general
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love coding and coffee in equal measure
 
 ---
 
 ## 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,firebase,androidstudio,java,cpp,html,css,bootstrap,git,github,vscode,mongodb,mysql,python&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,react,js,python,flask,nodejs,mysql,mongodb,firebase,androidstudio,java,cpp,html,css,bootstrap,git,github,vscode,solidity&perline=7" alt="Tech stack icons" />
 </div>
 
 <br />
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00D4FF?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Database Design" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-7C3AED?style=flat-square&logo=figma&logoColor=white" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/Mobile%20UX-00D4FF?style=flat-square&logo=android&logoColor=white" alt="Mobile UX" />
-  <img src="https://img.shields.io/badge/Clean%20Code-FF2D75?style=flat-square&logo=codefactor&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Shopify%20Themes-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Themes" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Clean%20Code-00D4FF?style=flat-square&logo=codefactor&logoColor=white" alt="Clean Code" />
 </div>
 
 ---
@@ -80,77 +68,94 @@ const usamaFaisal = {
 <table>
   <tr>
     <td width="50%">
-      <h3>📱 Mobile Apps</h3>
-      <p>React Native and Expo apps with smooth navigation, clean screens, and product-ready flows.</p>
+      <h3>⚙️ Backend Systems</h3>
+      <p>Ruby on Rails APIs, database architecture, subscriptions, payments, integrations, and scalable product features.</p>
     </td>
     <td width="50%">
-      <h3>🎨 Animated UI</h3>
-      <p>Interactive interfaces, polished layouts, and motion that makes apps feel modern and usable.</p>
+      <h3>📱 Mobile Apps</h3>
+      <p>Modern, responsive, and smooth mobile experiences with strong attention to UI, performance, and usability.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔥 Firebase Products</h3>
-      <p>Authentication, storage, realtime data, and fast prototypes backed by practical cloud tooling.</p>
+      <h3>🔌 API Integrations</h3>
+      <p>Third-party services, social APIs, advertising APIs, CRMLS listing data, and workflow automation.</p>
     </td>
     <td width="50%">
-      <h3>🧩 Frontend Experiences</h3>
-      <p>Responsive web pages, dashboards, and ecommerce-style product interfaces.</p>
+      <h3>🔗 Blockchain Ideas</h3>
+      <p>Exploring Web3 products, decentralized app concepts, smart contracts, wallets, and crypto-powered workflows.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌍 Featured Work
+## 🏢 Professional Experience
+
+| Role | Company | Highlights |
+| --- | --- | --- |
+| Software Engineer - Ruby on Rails | Stackworx | Working on real estate platforms, property data integrations, CRMLS listing sync, and filtered property discovery experiences. |
+| Associate Software Engineer - Ruby on Rails | A's Techware | Built scalable Rails backends, database structures, REST APIs, subscription/payment systems, React components, and Facebook/Google Ads integrations. |
+| SecOps Automation Intern | Systems Limited | Built authenticated React frontends backed by Python REST APIs and SQL database integrations. |
+| React Native Intern | ZIMO Group | Designed responsive and animated mobile UI screens using React Native CLI. |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science** - National University of Computer and Emerging Sciences (FAST NUCES), 2023
+
+---
+
+## 🌍 Live Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://flip-app-frontend.onrender.com">
-        <img src="assets/projects/flip-app-dashboard.png" width="100%" alt="Flip App dashboard preview" />
+      <a href="https://www.wordofmouth.com.au/">
+        <img src="assets/projects/wordofmouth-preview.png" width="100%" alt="WordOfMouth project preview" />
       </a>
-      <h3>Flip App</h3>
-      <p>Real estate investment dashboard experience for tracking deal stages, lead values, and project progress.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React badge" />
-        <img src="https://img.shields.io/badge/Product-Dashboard-7C3AED?style=flat-square" alt="Dashboard badge" />
-      </p>
+      <h3>WordOfMouth</h3>
+      <p>Scalable Ruby on Rails backend architecture, database structures, and dynamic product features.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://flip-app-frontend.onrender.com">
-        <img src="assets/projects/flip-app-details.png" width="100%" alt="Flip App project details preview" />
+      <a href="https://overview.eventvesta.com/">
+        <img src="assets/projects/eventvesta.png" width="100%" alt="Event Vesta project preview" />
       </a>
-      <h3>Flip App Project Details</h3>
-      <p>Property detail workspace with gallery views, metrics cards, pipeline updates, and project navigation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/UI-Property%20Workspace-FF2D75?style=flat-square" alt="Property workspace badge" />
-        <img src="https://img.shields.io/badge/UX-Data%20Driven-00D4FF?style=flat-square" alt="Data driven badge" />
-      </p>
+      <h3>Event Vesta Overview</h3>
+      <p>Subscription/payment systems, structured database models, and scalable backend solutions.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://very-much.vercel.app/">
-        <img src="assets/projects/very-much.png" width="100%" alt="Very Much ecommerce preview" />
+      <a href="https://golfpay360.com/">
+        <img src="assets/projects/golfpay360.png" width="100%" alt="GolfPay360 project preview" />
       </a>
-      <h3>Very Much</h3>
-      <p>Fashion ecommerce web experience with category navigation, hero carousel, and clean shopping UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-Web-111827?style=flat-square&logo=vercel&logoColor=white" alt="Web badge" />
-        <img src="https://img.shields.io/badge/Ecommerce-UI-FF2D75?style=flat-square" alt="Ecommerce badge" />
-      </p>
+      <h3>GolfPay360</h3>
+      <p>Live product development and backend-focused feature work.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://expo.dev/@usama530/FoodGrid?serviceType=classic&distribution=expo-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=UsamaFaisal&repo=Native_Project&theme=tokyonight&hide_border=true" width="100%" alt="FoodGrid / Native Project repository card" />
+      <a href="https://timbitssports.com/">
+        <img src="assets/projects/timbits-sports.png" width="100%" alt="Timbits Sports project preview" />
       </a>
-      <h3>FoodGrid</h3>
-      <p>React Native, Expo, and Firebase food-ordering app with meal customization and mobile-first screens.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Mobile-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native badge" />
-        <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase badge" />
-      </p>
+      <h3>Timbits Sports</h3>
+      <p>Live product development across practical product workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://flip-app-frontend.onrender.com">
+        <img src="assets/projects/flip-app.png" width="100%" alt="Flip App project preview" />
+      </a>
+      <h3>Flip App</h3>
+      <p>Real estate platform work involving property data, CRMLS listing sync, and data integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://very-much.vercel.app/">
+        <img src="assets/projects/very-much.png" width="100%" alt="Very Much project preview" />
+      </a>
+      <h3>Very Much</h3>
+      <p>Personal project built and deployed as a live web experience.</p>
     </td>
   </tr>
 </table>
@@ -159,51 +164,17 @@ const usamaFaisal = {
 
 ## 🧩 Selected Projects
 
-- **FoodGrid** - React Native, Expo, and Firebase food-ordering app with meal customization and product-focused mobile flows
-- **Final Paper Scheduler** - Python-based scheduling system for generating clash-free exam timetables
-- **Inventory Management Blockchain** - Inventory workflow exploration with blockchain-oriented concepts
-- **ECommerce / Very Much** - Ecommerce frontend experience with product discovery and responsive UI
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsamaFaisal&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaFaisal&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaFaisal&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</div>
-
----
-
-## 🔝 Recent Repositories
-
-Public work under [@UsamaFaisal](https://github.com/UsamaFaisal), sorted by most recent push. This section is refreshed by the included GitHub Actions workflow.
-
-<!-- RECENT_REPOS_START -->
-| # | Repository | Language | Stars | Last push | Description |
-|--:|:-----------|:---------|------:|:----------|:------------|
-| 1 | [**UsamaFaisal**](https://github.com/UsamaFaisal/UsamaFaisal) | - | 0 | 2026-09-11 | My personal repository |
-| 2 | [**her-birthday-main**](https://github.com/UsamaFaisal/her-birthday-main) | JavaScript | 0 | 2025-12-29 | - |
-| 3 | [**Native_Project**](https://github.com/UsamaFaisal/Native_Project) | TypeScript | 0 | 2024-05-09 | - |
-| 4 | [**CSVfile**](https://github.com/UsamaFaisal/CSVfile) | - | 0 | 2024-04-01 | - |
-| 5 | [**WeatherApp**](https://github.com/UsamaFaisal/WeatherApp) | HTML | 0 | 2024-02-13 | - |
-| 6 | [**QuizApp**](https://github.com/UsamaFaisal/QuizApp) | HTML | 0 | 2024-02-13 | - |
-| 7 | [**TaskManager**](https://github.com/UsamaFaisal/TaskManager) | HTML | 0 | 2024-02-08 | - |
-| 8 | [**ECommerce**](https://github.com/UsamaFaisal/ECommerce) | JavaScript | 0 | 2023-10-28 | - |
-<!-- RECENT_REPOS_END -->
+- **Food Grid** - React Native, Expo, and Firebase food-ordering app with meal customization and nutrient details
+- **Final Paper Scheduler** - Python-based scheduling system using AI concepts to generate clash-free exam timetables
 
 ---
 
 ## 🎯 Current Focus
 
-- Shipping practical React Native apps with clean mobile UX
-- Improving Firebase-backed flows and reusable app architecture
-- Building polished frontend screens for dashboards and ecommerce products
-- Learning stronger full-stack delivery patterns and production deployment workflows
+- Building scalable Ruby on Rails APIs and reliable database-backed products
+- Improving backend architecture, third-party integrations, and payment/subscription flows
+- Creating clean React and React Native user experiences
+- Learning blockchain fundamentals, Web3 workflows, and smart contract ideas
 
 ---
 
@@ -211,7 +182,7 @@ Public work under [@UsamaFaisal](https://github.com/UsamaFaisal), sorted by most
 
 <div align="center">
   <p>
-    I'm always happy to connect with developers, creators, and teams building useful products.
+    I'm always excited to connect with developers, creators, and teams building meaningful products.
   </p>
 
   <a href="mailto:usamashk530@gmail.com">
