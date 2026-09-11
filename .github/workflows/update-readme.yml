@@ -1,0 +1,37 @@
+name: Update README Activity
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Refresh recent repositories
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update recent repositories section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_README_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
+          PROFILE_USERNAME: UsamaFaisal
+          MAX_REPOS: 8
+        run: node scripts/update-recent-repos.js
+
+      - name: Commit README changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update recent repositories"
+          file_pattern: README.md
